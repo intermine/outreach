@@ -1,0 +1,3 @@
+This repository is designed specifically for ideas around the InterMine community and community building. Feel free to create an issue if you have an idea that you think might benefit the community - perhaps a project, or some materials you've created and want to share (tutorials, slides, etc.). Equally, you are encouraged to comment on existing issues with your viewpoints and ideas.
+
+If you *don't* have a github account and would rather not register, you're also welcome to [contact us](http://intermine.readthedocs.io/en/latest/about/contact-us/) some other way, perhaps via chat, email, or twitter.
