@@ -3,5 +3,5 @@ Repo for ideas and community discussions about InterMine-related outreach and co
 
 *Everyone* is welcome to chime in by creating [issues](https://github.com/intermine/outreach/issues) or commenting on them.
 
-Where issues get too long or list-like we may need to migrate content out to .md files and encourage users to PR - or email us so we can add details.
+Many of these issues are evergreen and will stay open for long periods of time - even if the issue is old you are welcome to chime in or offer your help and ideas! 
  
